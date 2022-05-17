@@ -1,0 +1,31 @@
+
+.body {
+    background-color: rgba(31, 255, 255, 0.637);
+}
+.header {
+    color: black;
+    background-color: rgb(63, 152, 247);
+    text-align: center;
+    text-decoration-line: underline;
+    font-weight: 900;
+    font-family:Comic 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+a:visited {
+    color: rgb(82, 63, 205);
+}
+ul {
+    color:red;
+    font-size: large;
+}
+.bottom {
+    color: black;
+    font-weight: bold;
+}
+a:link {
+    color: greenyellow;
+}
+.hotimage {
+    border-width: 5px;
+    border-color: rebeccapurple;
+}
+
